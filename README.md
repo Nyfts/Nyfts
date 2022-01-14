@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luan Jesus
 - 👀 I’m interested in tecnology, I love developing solutions to problems and improving existing processes
-- 🌱 I’m currently learning Java, Javascript and Typescript, relational databases
+- 🌱 I’m currently learning Java, Javascript, Typescript and relational databases
 - 💞️ I’m looking to collaborate on everything that calls my attention
 - 📫 Reach me via email: luan.j0612@gmail.com
 
